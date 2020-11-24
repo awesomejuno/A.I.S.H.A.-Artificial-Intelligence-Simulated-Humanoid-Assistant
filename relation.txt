@@ -1,0 +1,8 @@
+abhi pathania : friend
+none : nal
+avengers grimm time : chutiya
+abhijeet : roommate
+abhishek kumar : friend
+'abhi pathania: 'none',
+'abhi': 'none',
+'abhi pathania': 'none',
